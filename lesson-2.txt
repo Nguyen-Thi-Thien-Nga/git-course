@@ -1,0 +1,13 @@
+1.Bài 1
+1/ git init
+khởi tạo thư mục được quản lý bởi git
+2/ git add <file_name>
+thêm file vào vùng Staging
+3/ git add
+Đưa toàn bộ file ở vùng Working directory về vùng Staging
+4/ git commit -m"message"
+Tao 1 commit mới với nội dung là message
+2. Bài 2
+- Working directory: file2, file3
+- Staging: Blank
+- Repository: file1
