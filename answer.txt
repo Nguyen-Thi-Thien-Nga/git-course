@@ -1,4 +1,4 @@
-- Setting Email
+- Setting Email:
 git config --global user.email "thiennga12t1@gmail.com"
-- Setting Name
+- Setting Name:
 git config --global user.name "thiennga"
